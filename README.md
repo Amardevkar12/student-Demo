@@ -1,3 +1,4 @@
 # student-Demo
 this is my first Git Repository
-Author-Amar Devkar
+<br>
+<h1>Author-Amar Devkar</h1>
